@@ -3,3 +3,5 @@ let num2 = prompt("Digite o segundo número:");
 
 let resultado = Number(num1) - Number(num2);
 alert("O resultado da subtração é: " + resultado);
+
+alert("resultado: " + (Number(num1) + Number(num2)));
